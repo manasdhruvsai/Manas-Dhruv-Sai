@@ -84,9 +84,9 @@ I'm a passionate learner on a mission to turn ideas into elegant, functional sof
 
 I'm always open to connecting with fellow developers, collaborators, or mentors!
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-dhruv-sai)
-[![Twitter](https://img.shields.io/badge/Say_Hi_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/manasdhruvs)
-[![Email](https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasdhruvs@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-dhruv-sai-a2b55b395/)
+[![Twitter](https://img.shields.io/badge/Say_Hi_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/manasdhruvsai)
+[![Email](https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manasdhruvsaiwork@gmail.com)
 
 </div>
 
