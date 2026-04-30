@@ -12,15 +12,15 @@
 <br/>
 
 <!-- Profile Views & Social Badges -->
-<a href="https://linkedin.com/in/manas-dhruv-sai" target="_blank">
+<a href="https://www.linkedin.com/in/manas-dhruv-sai-a2b55b395/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://twitter.com/manasdhruvs" target="_blank">
+<a href="https://x.com/manasdhruvsai" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
 </a>
 &nbsp;
-<a href="mailto:manasdhruvs@gmail.com" target="_blank">
+<a href="mailto:manasdhruvsaiwork@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
